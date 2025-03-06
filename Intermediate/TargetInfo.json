@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "FluidFlux",
+			"Path": "..\\Source\\FluidFlux.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "FluidFluxEditor",
+			"Path": "..\\Source\\FluidFluxEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
